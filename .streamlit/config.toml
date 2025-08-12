@@ -1,0 +1,15 @@
+[theme]
+# Cor primária para elementos interativos
+primaryColor="#4633f6ff"
+
+# Cor de fundo principal
+backgroundColor="#0e1117"
+
+# Cor de fundo para a sidebar e outros elementos secundários
+secondaryBackgroundColor="#262730"
+
+# Cor do texto principal
+textColor="#fafafa"
+
+# Fonte
+font="sans serif"
